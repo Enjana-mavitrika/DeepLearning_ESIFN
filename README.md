@@ -23,4 +23,6 @@ Ibrahima DIALLO :
 
 Solofo RABONARIJAONA   
   - mail : rabonarijoana.john@gmail.com
-  - sujet d'étude : https://github.com/JamesLuoau/Self-Driving-Car-Semantic-Segmentation
+  - sujets d'étude : 
+    1. https://github.com/JamesLuoau/Self-Driving-Car-Semantic-Segmentation
+    2. https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
