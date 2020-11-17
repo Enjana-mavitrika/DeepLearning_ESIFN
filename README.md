@@ -19,8 +19,8 @@ Ibrahima DIALLO :
  Nicolas TROTTA   
   - mail : nicolas.trotta@etu.univ-st-etienne.fr
   - sujet d'étude : 
-    1.https://www.kaggle.com/tandoorimomos/semantic-segmentation (notebook)
-    2.https://www.youtube.com/watch?v=nuO926-RLQI (vidéo)
+    1. https://www.kaggle.com/tandoorimomos/semantic-segmentation (notebook)
+    2. https://www.youtube.com/watch?v=nuO926-RLQI (vidéo)
 
 
 Solofo RABONARIJAONA   
