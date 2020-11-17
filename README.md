@@ -12,8 +12,8 @@ Ibrahima DIALLO :
   
   
  Elias ROMDAN   
-  - mail : (à remplir)
-  - sujet d'étude : (mettre le lien ici)
+  - mail : elias.romdan@etu.univ-st-etienne.fr 
+  - sujet d'étude : https://fr.mathworks.com/help/vision/ug/semantic-segmentation-with-deep-learning.html
   
   
  Nicolas TROTTA   
