@@ -4,7 +4,7 @@ Projet Deep Learning : Sementic Segmentation for self driving car
 ## Team :
 Fares DABBEK  
  - mail : Faresdabek@gmail.com
- - sujet d'étude : (mettre le lien ici)
+ - sujet d'étude :https://www.youtube.com/watch?v=PrZ3r33gewQ&ab_channel=L42Project
  
 Ibrahima DIALLO :
   - mail : ibrahimabory@gmail.com / ibrahima.diallo2@etu.univ-st-etienne.fr 
