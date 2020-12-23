@@ -10,6 +10,8 @@ Fares DABBEK
  
  2)https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
  
+ 3)https://github.com/L42Project/Tutoriels/tree/master/Tensorflow/tutoriel19-1
+ 
 Ibrahima DIALLO :
   - mail : ibrahimabory@gmail.com / ibrahima.diallo2@etu.univ-st-etienne.fr 
   - sujet d'étude : (mettre le lien ici) 
