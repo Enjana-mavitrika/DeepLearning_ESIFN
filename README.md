@@ -6,11 +6,11 @@ Fares DABBEK
  - mail : Faresdabek@gmail.com
  - sujet d'étude :
  
- 1)https://www.youtube.com/watch?v=PrZ3r33gewQ&ab_channel=L42Project 
+ 1.https://www.youtube.com/watch?v=PrZ3r33gewQ&ab_channel=L42Project 
  
- 2)https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
+ 2.https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
  
- 3)https://github.com/L42Project/Tutoriels/tree/master/Tensorflow/tutoriel19-1
+ 3.https://github.com/L42Project/Tutoriels/tree/master/Tensorflow/tutoriel19-1
  
 Ibrahima DIALLO :
   - mail : ibrahimabory@gmail.com / ibrahima.diallo2@etu.univ-st-etienne.fr 
