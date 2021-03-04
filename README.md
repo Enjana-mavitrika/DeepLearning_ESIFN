@@ -5,10 +5,10 @@ Projet Deep Learning : Sementic Segmentation for self driving car
 Fares DABBEK  
  - mail : Faresdabek@gmail.com
  - mon travail:
- - UNET:
+ UNET:
  https://colab.research.google.com/drive/1fHlqP5X3GCNc0_Iwmbuk-ZboNwlI3fGi?usp=sharing
  
- -Mask Rcnn:
+ Mask Rcnn:
  https://colab.research.google.com/drive/17e6sMULB3fCkYL0O7nOSNXnQ76v4WPXM?usp=sharing
  
 Ibrahima DIALLO :
