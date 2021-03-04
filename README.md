@@ -4,13 +4,12 @@ Projet Deep Learning : Sementic Segmentation for self driving car
 ## Team :
 Fares DABBEK  
  - mail : Faresdabek@gmail.com
- - sujet d'étude :
+ - mon travail: : 
+ - UNET:
+ - https://colab.research.google.com/drive/1fHlqP5X3GCNc0_Iwmbuk-ZboNwlI3fGi?usp=sharing
  
- 1.https://www.youtube.com/watch?v=PrZ3r33gewQ&ab_channel=L42Project 
- 
- 2.https://bond-kirill-alexandrovich.medium.com/understanding-unet-27de538e08d8
- 
- 3.https://github.com/L42Project/Tutoriels/tree/master/Tensorflow/tutoriel19-1
+ -Mask Rcnn:
+ https://colab.research.google.com/drive/17e6sMULB3fCkYL0O7nOSNXnQ76v4WPXM?usp=sharing
  
 Ibrahima DIALLO :
   - mail : ibrahimabory@gmail.com / ibrahima.diallo2@etu.univ-st-etienne.fr 
